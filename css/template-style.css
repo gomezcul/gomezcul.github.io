@@ -465,8 +465,8 @@ aside.aside-left {
 .text-dark, .text-dark *, .primary-color-dark .text-primary, .primary-color-dark .text-primary * {
   color: #002633 !important;
 } 
-.text-blue {
-  color: blue;
+.text-blue * {
+  color: #1985FF !important;
 }
 
 .text-white-hover, .text-primary-hover, .text-dark-hover {
