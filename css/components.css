@@ -203,3 +203,10 @@ a.tooltip-content.tooltip-bottom,.tooltip-content.tooltip-bottom {
 .grid .button {
     width: 100%;
 }
+
+.twt_wrap {
+  text-align: center;
+}
+.twt_wrap > iframe {
+  margin: auto;
+}
