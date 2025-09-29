@@ -1,0 +1,81 @@
+          <br />  
+          <div class="line">
+            <div class="line" id="ResearchInProgress">
+              <h2 class="text-size-35 text-center"> </h2>
+              <hr class="break-small background-primary break-center">
+            </div>
+            <p class="text-size-25 text-dark text-bold">Research in progress:</p>
+            <br /> 
+            <ul>
+              <li class="text-size-20 text-dark">A Spatio-Temporal Analysis of the Influence of rainfall intensity on the calculation of erosivity in the Peruvian part of the Catamayo - Chira binational basin - "El Niño" effect.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Jose Leon, Luis Masias, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">08/2021-Present</li>
+                </ul>
+              </li>
+              <li class="text-size-20 text-dark">Hydrological response upstream of the Angostura Dam in the Alto Apurímac - Caylloma - Arequipa Interbasin for climate change scenarios and changes in land cover.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Samuel Nuñonca, Marcelo Rodriguez, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">08/2021-Present</li>
+                </ul> 
+              </li>
+              <li class="text-size-20 text-dark">They analyze the availability and quality of water resources and their influence on designing a hydraulic structure for installing an aquaculture production center located in the Santa Eulalia sub-basin.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Wilfredo Medina, Kevin Terrazo, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">04/2021-Present</li>
+                </ul> 
+              </li>
+              <li class="text-size-20 text-dark">Analysis of the Pariac hydroelectric power plant's effect on food production based on water availability in the Pariac - Rio Santa - Ancash basin.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Angelo Carbajal, Nestor Jara, Luis Gomez  </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">04/2021-Present</li>
+                </ul> 
+              </li>
+              <li class="text-size-20 text-dark">Influence of land cover change on the calculation of flows in the vicinity of the Condorcerro station in the Santa River from satellite data.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Jimena Chavez, Leslie Mendez, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">04/2021-Present</li>
+                </ul> 
+              </li>
+              <li class="text-size-20 text-dark">Variation scenarios of water balance and agricultural demand (water-food nexus) applied to planning a hydraulic irrigation structure in Churcampa, San Miguel de Mayocc, and La Merced-Huancavelica.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Maximo Fiestas, Shirley Gonzalez, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">04/2021-Present</li>
+                </ul> 
+              </li>
+              <li class="text-size-20 text-dark">Variation of water availability for food production due to hydroelectric energy production in the Locumba watershed.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Kimberly Ortiz De Orue, Roosevelt Sedano, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">04/2021-Present</li>
+                </ul> 
+              </li>
+              <li class="text-size-20 text-dark">Error induced in estimating daily flows from precipitation data of the Huancay river basin.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Diego Arrieta, Jhamira Garay, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">04/2021-Present</li>
+                </ul> 
+              </li>
+              <li class="text-size-20 text-dark">Monitoring the physical quality of water through satellite data to determine areas of high contamination in the coastal zone of the Pucusana Bay, Lima-Peru.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Yahir Palma, Fabiola Zuta, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">04/2021-Present</li>
+                </ul> 
+              </li>
+              <li class="text-size-20 text-dark">Analysis of the link between water availability and energy consumption for irrigation in food production in a sector of the Cañete-Lima basin.
+                <ul>
+                  <li class="text-size-20 text-dark">Team: Christian Hernadez, Victor Tantalean, Luis Gomez </li>
+                  <li class="text-size-20 text-dark">Peruvian University of Applied Sciences, Lima, PE</li>
+                  <li class="text-size-20 text-dark">04/2021-Present</li>
+                </ul> 
+              </li>
+            </ul> 
+          </div> 
